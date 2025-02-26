@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend development, UI/UX design
 - 🌱 I’m currently learning Ionic with React/Angular framework
 - 💞️ I’m looking to collaborate on projects with a scope in creating a huge impact over the public
-- 📫 How to reach me @siva52.shri238@gmail.com
+- 📫 How to reach me @siva-chidambaram@outlook.com
 
 <!---
 siva-chidambaram/siva-chidambaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
