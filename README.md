@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @siva-chidambaram
-- 👀 I’m interested in Frontend development, UI/UX design
-- 🌱 I’m currently learning Ionic with React/Angular framework
-- 💞️ I’m looking to collaborate on projects with a scope in creating a huge impact over the public
-- 📫 How to reach me @siva-chidambaram@outlook.com
+# Siva Chidambaram
 
-<!---
-siva-chidambaram/siva-chidambaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a VLSI Engineer based in Bengaluru with a deep interest in computing systems, operating systems and kernels, computer architecture, and scripting. My academic foundation in electrical engineering supports a strong inclination toward semiconductor validation, EDA toolchains, and test equipment.
+
+## Technical Scope
+In parallel with my hardware focus, I actively explore frontend development, UI/UX design, and static site generation. This crossover allows me to build clean wireframes, content-first interfaces, and brand consulting tools.
+
+## Professional Roles
+Alongside my engineering roles, I contribute to family business operations in key management capacities. These experiences have strengthened my skill set in project management, agile methodologies, and cross-functional collaboration.
+
+## Organizations
+- Founder of [Pixelatives Techventures – @pixdevs](https://github.com/pixdevs), focused on building practical and impactful business tools.
+- Co-founder of [Daemon Demons – @Daemon-Demons](https://github.com/Daemon-Demons), a curated collection of system scripts and daemon workflows.
+
+## Contact
+- 📧 siva-chidambaram@outlook.com  
+- 🔗 [linkedin.com/in/siva-chidambaram](https://linkedin.com/in/siva-chidambaram)
