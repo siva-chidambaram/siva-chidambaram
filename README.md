@@ -1,6 +1,5 @@
 # Siva Chidambaram
 
-## About Me
 I am a VLSI Engineer based in Bengaluru with a deep interest in computing systems, operating systems and kernels, computer architecture, and scripting. My academic foundation in electrical engineering supports a strong inclination toward semiconductor validation, EDA toolchains, and test equipment.
 
 ## Technical Scope
